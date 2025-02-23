@@ -1,8 +1,8 @@
-# Timelupe - A Time Capsule Web App
+# Timelume - A Time Capsule Web App
 
 ## Overview
 
-Timelupe is a web-based application that allows users to create, store, and manage digital time capsules. Users can preserve their memories in the form of text, images, and videos, and set a future unlock date for them. This project is designed for users who want to keep their memories secure and accessible only at a later time.
+Timelume is a web-based application that allows users to create, store, and manage digital time capsules. Users can preserve their memories in the form of text, images, and videos, and set a future unlock date for them. This project is designed for users who want to keep their memories secure and accessible only at a later time.
 
 ## Features
 
@@ -27,7 +27,7 @@ To run the project locally, follow these steps:
 1. **Clone the Repository:**
 
 
-   git clone https://github.com/your-username/Timelupe.git
+   git clone https://github.com/your-username/Timelume.git
    cd Timelupe
    
 
@@ -66,7 +66,7 @@ To run the project locally, follow these steps:
 ## File Structure
 
 
-Timelupe/
+Timelume/
 │-- index.html       # Main application UI
 │-- styles.css       # Styling for the application
 │-- script.js        # Main JavaScript logic
